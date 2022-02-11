@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/storekunal/static/css/main.cca11db2.css",
+    "main.js": "/storekunal/static/js/main.f77a261a.js",
+    "index.html": "/storekunal/index.html",
+    "main.cca11db2.css.map": "/storekunal/static/css/main.cca11db2.css.map",
+    "main.f77a261a.js.map": "/storekunal/static/js/main.f77a261a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cca11db2.css",
+    "static/js/main.f77a261a.js"
+  ]
+}
